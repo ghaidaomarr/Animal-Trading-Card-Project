@@ -1,0 +1,48 @@
+#Frame{
+     border: 1px solid #969696;
+     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+     background-color:rgba(201, 208, 197, 0.73); 
+     padding:11px; 
+     width:400px;
+     margin:10px auto;
+     border-radius:5px; 
+}
+h3{
+     font-weight: bold;
+     font-size:30px; 
+     color: #103e0a;
+     font-family:Helvetica; 
+}
+#MonkeyImage{ 
+     width:300px;
+     height:200px;
+     display:block;
+     margin:15px auto;
+     border-radius:15px; 
+}
+#FrameInfo{
+     border: 1px solid #969696;
+     background-color:rgba(167, 181, 160, 0.88);  
+     padding:11px; 
+     border-radius:5px; 
+}
+#Font{
+     font-style: italic;
+     /* font-size: 13pt;
+     margin:5px auto; */
+     color:#1f1e1eeb;
+
+}
+li{
+     list-style-type:none;
+     color:#1f1e1eeb;
+
+}
+.listInformatin{
+     font-weight:bold ;
+     color:#3456b3c4;
+}
+ p{
+     font-family:Palatino;
+     color:#1f1e1eeb;
+ }
